@@ -116,6 +116,9 @@ struct CarEvent @0x9b1657f34caf3ad3 {
     steerTimeLimit @115;
     vehicleSensorsInvalid @116;
 
+    torqueNNFFLoadSuccess @135;
+    torqueNNFFNotLoaded @136;
+
     radarCanErrorDEPRECATED @15;
     communityFeatureDisallowedDEPRECATED @62;
     radarCommIssueDEPRECATED @67;
